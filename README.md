@@ -1,0 +1,2 @@
+# OlekQbot
+mój bot discord
